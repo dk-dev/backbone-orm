@@ -8,3 +8,6 @@ npm-debug.log
 docs/
 components/
 _temp/
+.agents/
+.archive/
+.tmp/
